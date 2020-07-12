@@ -16,3 +16,8 @@ nav{
     font-size: 150%;
     font-family: Arial, "Time New Roman", serif;
 }
+
+h2{
+    color: #666666;
+    background: #00B7EA; 
+}
