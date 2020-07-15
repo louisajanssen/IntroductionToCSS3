@@ -1,7 +1,13 @@
 header{
-    background: #c12c2c
+    background: #2dd4d1;
 }
 
 h1{
-    color: #fdfbfb
+    color: #fdfbfb;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+h2{
+    color: #5e0a96;
 }
