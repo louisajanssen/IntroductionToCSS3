@@ -1,27 +1,27 @@
-header{
-    background: #2dd4d1;
+header {
+    background: #9e0f9c;
 }
 
-h1{
+h1 {
     color: #fdfbfb;
     font-variant: small-caps;
     text-align: center;
 }
 
-h2{
+h2 {
     color: #5e0a96;
     font-variant: small-caps;
 }
 
-section{
+section {
     background: #afacac;
 }
 
-a{
+a {
     background: #e2e1e1;
     color: #000000;
 }
 
-aside{
+aside {
     display: none;
 }
