@@ -27,6 +27,8 @@ h2{
 section{
     width: 30%;
     display: inline-block;
+    float: left;
+    margin-right: 2%;
 }
 
 details{
