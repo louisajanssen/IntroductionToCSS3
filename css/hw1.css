@@ -22,7 +22,7 @@ h2 {
 }
 
 section {
-    background: #afacac;
+    background: #FFFFFF;
 }
 
 nav a {
@@ -40,9 +40,17 @@ a.active{
 }
 
 .right{
+    display: inline-block;
+    width: 70%;
     float: right;
 }
 
-aside {
-    display: none;
+.left {
+    display: inline-block;   
+    width: 25%;
+    float: left;
+}
+
+.left > a > img{
+    width: 200px;
 }
