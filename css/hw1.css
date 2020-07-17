@@ -35,6 +35,10 @@ nav a {
     padding: 6px;
 }
 
+a.active{
+    background-color: #d7a1ec;
+}
+
 aside {
     display: none;
 }
