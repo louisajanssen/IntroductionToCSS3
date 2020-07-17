@@ -56,4 +56,5 @@ a.active{
     width: 200px;
     display: block;
     margin: auto;
+    border: 2px solid #000000;
 }
