@@ -1,7 +1,7 @@
 header {
     background: #FFFFFF;
     background-image: url(flywheel.jpg);
-    height: 150px;
+    padding: 8px;
 }
 
 body{
@@ -13,7 +13,7 @@ h1 {
     color: #fdfbfb;
     font-variant: small-caps;
     text-align: center;
-    font-size: 45px;
+    font-size: 40px;
 }
 
 h2 {
@@ -37,6 +37,10 @@ nav a {
 
 a.active{
     background-color: #d7a1ec;
+}
+
+.right{
+    float: right;
 }
 
 aside {
