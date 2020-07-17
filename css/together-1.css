@@ -22,6 +22,7 @@ nav{
 nav a{
     width: 22%;
     display: inline-block; 
+    background: #FFFFFF;
 }
 
 h2{
