@@ -1,11 +1,12 @@
 header {
-    background: #9e0f9c;
+    background: #FFFFFF;
     background-image: url(flywheel.jpg);
+    height: 150px;
 }
 
 body{
     padding: 5px;
-    margin: 2%;
+    margin: 5%;
 }
 
 h1 {
