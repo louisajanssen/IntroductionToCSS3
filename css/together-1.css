@@ -19,6 +19,11 @@ nav{
     font-family: Arial, "Time New Roman", serif;
 }
 
+nav a{
+    width: 22%;
+    display: inline-block; 
+}
+
 h2{
     color: #666666;
     background: #00B7EA; 
