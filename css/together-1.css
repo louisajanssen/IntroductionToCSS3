@@ -37,6 +37,10 @@ h2{
     margin-right: 2%;
 }
 
+.whole{
+    clear:both;
+}
+
 details{
     font-style: italic;
 }
