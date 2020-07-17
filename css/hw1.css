@@ -2,6 +2,11 @@ header {
     background: #9e0f9c;
 }
 
+body{
+    padding: 5px;
+    margin: 2%;
+}
+
 h1 {
     color: #fdfbfb;
     font-variant: small-caps;
