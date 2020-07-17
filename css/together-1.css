@@ -30,8 +30,8 @@ h2{
     background: #00B7EA; 
 }
 
-section{
-    width: 30%;
+.half{
+    width: 45%;
     display: inline-block;
     float: left;
     margin-right: 2%;
