@@ -55,4 +55,5 @@ a.active{
 .left > a > img{
     width: 200px;
     display: block;
+    margin: auto;
 }
