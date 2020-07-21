@@ -49,6 +49,10 @@ th, td{
     padding: 1%;
     border: 1px solid #000000;
 }
+
+td{
+    opacity: 0.8;
+}
 p{
     font-size: 150%;
 }
