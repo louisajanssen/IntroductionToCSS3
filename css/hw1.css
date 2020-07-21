@@ -43,11 +43,11 @@ table{
 th{
     background-color: #c97fe4;
     border-radius: 5px 5px 0 0;
+    border-bottom-width: thick;
 }
-
 th, td{
     padding: 1%;
-    border: 1px solid #000000
+    border: 1px solid #000000;
 }
 p{
     font-size: 150%;
