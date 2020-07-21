@@ -54,6 +54,7 @@ td{
     opacity: 0.8;
     border-radius: 2px;
     background-color: #fbdafa;
+    text-shadow: 2px 2px #FFFFFF;
 }
 td:nth-child(1) {
     text-align: left;
