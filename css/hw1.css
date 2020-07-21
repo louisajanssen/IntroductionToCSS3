@@ -36,6 +36,9 @@ table, th, td{
     border: 1px solid #000000;
 }
 
+th{
+    background-color: #c97fe4;
+}
 p{
     font-size: 150%;
 }
