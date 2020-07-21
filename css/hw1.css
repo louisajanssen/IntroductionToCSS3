@@ -32,6 +32,10 @@ section {
     background: #FFFFFF;
 }
 
+table, th, td{
+    border: 1px solid #000000;
+}
+
 p{
     font-size: 150%;
 }
