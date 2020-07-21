@@ -35,6 +35,8 @@ section {
 table{
     width: 80%;
     margin: 8%;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 table, th, td{
