@@ -44,6 +44,10 @@ table, th, td{
 th{
     background-color: #c97fe4;
 }
+
+th, td{
+    padding: 1%;
+}
 p{
     font-size: 150%;
 }
